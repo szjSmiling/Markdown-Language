@@ -4,8 +4,9 @@ README
 
 ****
 	
-|Author|szjSmiling|
-|---|---
+|Author|`szjSmiling`|
+|---|---|
+|English-Name|`Jelly`
 |E-mail|958306134@qq.com
 
 
@@ -130,7 +131,7 @@ alt和title即对应HTML中的alt和title属性（都可省略）：
 
 URL即图片的url地址，如果引用本仓库中的图片，直接使用**相对路径**就可了，如果引用其他github仓库中的图片要注意格式，即：`仓库地址/raw/分支名/图片路径`，如：
 ```
-https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
+https://github.com/szjSmiling/szj-Vue-with-MintUI/blob/master/src/assets/images/dog.gif
 ```
 
 |#|语法|效果|
@@ -150,7 +151,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|-----|
-|1|`[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")`|[我的博客](http://blog.csdn.net/guodongxiaren "悬停显示")|
+|1|`[我的博客](https://blog.csdn.net/szjSmiling "悬停显示")`|[我的博客](https://blog.csdn.net/szjSmiling "悬停显示")|
 |2|`[我的git][github] `|[我的git][github] |
 
 语法2由两部分组成：
@@ -173,7 +174,7 @@ https://github.com/guodongxiaren/ImageCache/raw/master/Logo/foryou.gif
 
 |#|语法|效果|
 |---|----|:---:|
-|1|`[![weibo-logo]](http://weibo.com/linpiaochen)`|[![weibo-logo]](http://weibo.com/linpiaochen)|
+|1|`[![weibo-logo]](https://weibo.com/u/3817191787/home?wvr=5)`|[![weibo-logo]](https://weibo.com/u/3817191787/home?wvr=5)|
 |2|`[![](/img/github.png "我的git，欢迎关注")][github]`|[![](/img/github.png "我的git，欢迎关注")][github]|
 |3|`[![csdn-logo]][csdn]`|[![csdn-logo]][csdn]|
 
