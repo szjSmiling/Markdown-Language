@@ -5,7 +5,7 @@ README
 ****
 	
 |Author|`szjSmiling`|
-|---|---|
+|:---:|:---:|
 |English-Name|`Jelly`|
 |E-mail|958306134@qq.com|
 
