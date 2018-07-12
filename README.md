@@ -135,7 +135,7 @@ https://github.com/szjSmiling/szj-Vue-with-MintUI/blob/master/src/assets/images/
 ```
 
 |#|语法|效果|
-|---|---|----
+|---|:---|:----:|
 |1|`![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")`|![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo")
 |2|`![][foryou]`|![][foryou]
 
@@ -150,7 +150,7 @@ https://github.com/szjSmiling/szj-Vue-with-MintUI/blob/master/src/assets/images/
 ### 链接外部URL
 
 |#|语法|效果|
-|---|----|-----|
+|---|:----|:-----:|
 |1|`[我的博客](https://blog.csdn.net/szjSmiling "悬停显示")`|[我的博客](https://blog.csdn.net/szjSmiling "悬停显示")|
 |2|`[我的git][github] `|[我的git][github] |
 
